@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark (1).svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light (1).svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
   <img src="./dark.svg" alt="Yaashini C - Full Stack Developer specialising in React.js, Java Spring Boot, UI/UX design and data analytics" width="100%">
 </picture>
 
@@ -28,6 +28,7 @@ I build full-stack applications end to end, from **Figma prototypes** to **deplo
 ## 🚀 Featured Projects
 
 ### [Online Quiz Tracker](https://github.com/yaashinisekar/OnlineQuizTracker)
+
 `React.js` `Firebase` `JavaScript` `REST APIs` `HTML5` `CSS3` `Git`
 
 A full-stack quiz platform with Firebase Authentication and role-based access for admin and user flows.
@@ -38,6 +39,7 @@ A full-stack quiz platform with Firebase Authentication and role-based access fo
 - Fully responsive UI across devices
 
 ### [Smart Expense Tracker](https://github.com/yaashinisekar/SmartExpenseTracker)
+
 `Java` `Spring Boot` `React.js` `MySQL` `Tailwind CSS` `JWT` `REST APIs`
 
 A secure finance app where users record, categorise and monitor expenses and income.
@@ -83,6 +85,7 @@ A secure finance app where users record, categorise and monitor expenses and inc
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yaashinisekar&show_icons=true&hide_border=true&theme=transparent" alt="Yaashini's GitHub stats" height="160">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaashinisekar&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="160">
 
 </div>
@@ -94,11 +97,13 @@ A secure finance app where users record, categorise and monitor expenses and inc
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--yaashini.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-yaashini.vercel.app)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaashini%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaashini-c-083417351)
+
 [![Email](https://img.shields.io/badge/Email-yaashinisekar2601@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaashinisekar2601@gmail.com)
 
 </div>
+
 <!--
 **yaashinisekar/yaashinisekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+-->
